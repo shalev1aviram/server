@@ -1,0 +1,8 @@
+post http://localhost:3001/fly/newFlight
+Content-Type: application/json
+
+{
+    "Altitude":1000,
+    "His":180,
+    "ADI":50
+}
