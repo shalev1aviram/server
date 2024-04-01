@@ -1,13 +1,4 @@
-const Fly = require('../models/flyteModel')
-
-// const getFlytsBy = async (id,req, res, next) => {
-//     try {
-//         const flyte = await Fly.findone();
-//         res.json(flyte);
-//     } catch (error) {
-//         next(error);
-//     }
-// };
+const Fly = require('../models/flightModel')
 
 const newflight = async (req, res, next) => {
     try {
