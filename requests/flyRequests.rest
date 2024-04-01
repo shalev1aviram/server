@@ -3,6 +3,6 @@ Content-Type: application/json
 
 {
     "Altitude":1000,
-    "His":180,
-    "ADI":50
+    "His":290,
+    "ADI":20
 }
