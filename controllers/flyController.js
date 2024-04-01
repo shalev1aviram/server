@@ -1,4 +1,4 @@
-const Fly = require('../models/flightModel')
+const Fly = require('../models/flyteModel')
 
 const newflight = async (req, res, next) => {
     try {
